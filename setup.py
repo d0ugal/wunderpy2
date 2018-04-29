@@ -17,7 +17,7 @@ if sys.hexversion < 0x02070000:
     install_requires.append('argparse')
 
 setup(
-    name='wunderpy2',
+    name='wunderpy2-python-3-fixes',
     version='0.1.4',
     description='A Python library for the Wunderlist 2 REST API',
     # Idea credit of https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
